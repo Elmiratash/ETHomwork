@@ -1,5 +1,3 @@
-# ETHomwork
-
 # Horiseon.ET.HM1
 Horiseon Webpage 
 
